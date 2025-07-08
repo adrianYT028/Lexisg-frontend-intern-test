@@ -103,8 +103,13 @@ The citation system works as follows:
 - `npm run start` - Run production server
 
 ## Screenshots
+![Screenshot (119)](https://github.com/user-attachments/assets/28feca01-17a1-4c7d-ac6a-ef0137600cf1)
+![Screenshot (118)](https://github.com/user-attachments/assets/e695dafa-f3e9-4f96-95f7-ecedb981d7d2)
+![Screenshot (117)](https://github.com/user-attachments/assets/843f9647-6d10-41cf-bb40-770626dfe55e)
+![Screenshot (116)](https://github.com/user-attachments/assets/b146e95b-419e-4a0e-89cd-fbe8ba3bd139)
 
-[Add screenshots or screen recording of the interface here]
+       
+
 
 ## Future Enhancements
 
